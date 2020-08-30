@@ -9,8 +9,6 @@ on:
       - master
     tags:
     - 'v*'
-  #  branches: 
-  #    - master
   schedule:
     - cron: 0 8 * * 5
 
